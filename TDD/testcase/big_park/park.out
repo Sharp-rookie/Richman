@@ -1,0 +1,33 @@
+user QASJ
+map [3] Q 0
+map [6] Q 0
+map [9] Q 0
+map [1] S 0
+map [2] J 0
+map [4] J 0
+map [10] J 0
+fund Q 9700
+fund A 10000
+fund S 9500
+fund J 9400
+credit Q 0
+credit A 0
+credit S 0
+credit J 0
+gift Q barrier 0
+gift Q robot 0
+gift Q god 0
+gift A barrier 0
+gift A robot 0
+gift A god 0
+gift S barrier 0
+gift S robot 0
+gift S god 0
+gift J barrier 0
+gift J robot 0
+gift J god 0
+userloc Q 14 0
+userloc A 14 0
+userloc S 6 0
+userloc J 10 0
+nextuser A

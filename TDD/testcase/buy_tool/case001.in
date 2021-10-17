@@ -1,0 +1,15 @@
+preset user AQSJ
+preset fund A 10000
+preset fund Q 10000
+preset fund S 10000
+preset fund J 10000
+preset credit A 29
+preset credit Q 29
+preset credit S 29
+preset credit J 29
+preset gift A robot 9 
+preset userloc A 23 0
+preset nextuser A    
+step 5    
+1
+dump

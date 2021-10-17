@@ -1,0 +1,41 @@
+preset user QASJ
+preset fund A 10000  
+preset fund Q 10000  
+preset fund S 10000   
+preset fund J 10000   
+preset credit A 0    
+preset credit Q 0   
+preset credit S 0    
+preset credit J 0
+preset userloc A 14 0
+preset userloc Q 0 0
+preset userloc S 0 0
+preset userloc J 0 0
+preset nextuser A  
+step 0
+step 1
+y
+step 2
+y
+step 3
+y
+step 0
+step 1
+y
+step 2
+y
+step 3
+y
+step 0
+step 1
+y
+step 2
+y
+step 3
+y
+step 0
+step 3
+step 4
+y
+step 5
+dump

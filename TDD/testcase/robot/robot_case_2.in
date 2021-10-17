@@ -1,0 +1,15 @@
+preset user QASJ
+preset gift A robot 0
+preset barrier 1
+preset barrier 8
+preset barrier 20
+preset nextuser A
+robot
+step 6
+y
+step 0
+step 0
+step 0
+step 6
+y
+dump

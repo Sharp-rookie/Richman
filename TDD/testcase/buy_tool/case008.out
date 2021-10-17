@@ -1,0 +1,26 @@
+user AQSJ
+fund A 10000
+fund Q 10000
+fund S 10000
+fund J 10000
+credit A 49
+credit Q 49
+credit S 49
+credit J 49
+gift A barrier 0
+gift A robot 9
+gift A god 0
+gift Q barrier 0
+gift Q robot 0
+gift Q god 0
+gift S barrier 0
+gift S robot 0
+gift S god 0
+gift J barrier 0
+gift J robot 0
+gift J god 0
+userloc A 28 0
+userloc Q 0 0
+userloc S 0 0
+userloc J 0 0
+nextuser Q

@@ -1,0 +1,15 @@
+preset user QASJ
+preset fund A 10000
+preset fund Q 10000
+preset fund S 10000
+preset fund J 10000
+preset credit A 0
+preset credit Q 0
+preset credit S 0
+preset credit J 0
+preset gift A barrier 0
+preset nextuser A
+block 1
+step 5
+y
+dump

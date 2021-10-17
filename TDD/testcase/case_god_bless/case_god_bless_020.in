@@ -1,0 +1,18 @@
+preset user AQSJ
+preset fund A 601
+preset fund Q 10000
+preset fund S 10000
+preset fund J 10000
+preset credit A 0
+preset credit Q 0
+preset credit S 0
+preset credit J 0
+preset map [30] Q 3
+preset userloc A 29 0
+preset userloc Q 0 0
+preset userloc S 0 0
+preset userloc J 0 0
+preset gift A god 1
+preset nextuser A
+step 1
+dump
